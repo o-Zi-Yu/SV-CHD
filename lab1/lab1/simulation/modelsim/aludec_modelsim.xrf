@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, D:/QuartusPrime/lab1/aludec.sv
+source_file = 1, D:/QuartusPrime/lab1/testbench_aludec.sv
+source_file = 1, D:/QuartusPrime/lab1/testbench_aludec.tv
+source_file = 1, D:/QuartusPrime/lab1/db/aludec.cbx.xml
+design_name = aludec
+instance = comp, \ALUControl[0]~output , ALUControl[0]~output, aludec, 1
+instance = comp, \ALUControl[1]~output , ALUControl[1]~output, aludec, 1
+instance = comp, \ALUControl[2]~output , ALUControl[2]~output, aludec, 1
+instance = comp, \funct3[1]~input , funct3[1]~input, aludec, 1
+instance = comp, \funct7b5~input , funct7b5~input, aludec, 1
+instance = comp, \funct3[0]~input , funct3[0]~input, aludec, 1
+instance = comp, \ALUOp[1]~input , ALUOp[1]~input, aludec, 1
+instance = comp, \opb5~input , opb5~input, aludec, 1
+instance = comp, \ALUOp[0]~input , ALUOp[0]~input, aludec, 1
+instance = comp, \funct3[2]~input , funct3[2]~input, aludec, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, aludec, 1

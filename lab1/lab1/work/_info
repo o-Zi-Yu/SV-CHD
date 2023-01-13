@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Programs/QuartusPrime
+valudec
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1662933044
+!i10b 1
+!s100 U[W2>kifK;K=P;M0f`>T`1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIBM5_FPR8Q1hU85dMkAn^2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/QuartusPrime/lab1
+w1662931353
+8D:/QuartusPrime/lab1/aludec.sv
+FD:/QuartusPrime/lab1/aludec.sv
+!i122 1
+L0 1 15
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1662933044.000000
+!s107 D:/QuartusPrime/lab1/aludec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/QuartusPrime/lab1/aludec.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vtestbench_aludec
+R0
+R1
+!i10b 1
+!s100 a]i0NQVgaWSR0A^Bb0ReV2
+R2
+I1=6?9I=FX=gU2SK0PN6XY0
+R3
+S1
+R4
+w1662932920
+8D:/QuartusPrime/lab1/testbench_aludec.sv
+FD:/QuartusPrime/lab1/testbench_aludec.sv
+!i122 2
+L0 1 79
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/QuartusPrime/lab1/testbench_aludec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/QuartusPrime/lab1/testbench_aludec.sv|
+!i113 1
+R7
+R8

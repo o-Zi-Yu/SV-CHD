@@ -1,0 +1,22 @@
+|aludec
+ALUOp[0] => a3.IN0
+ALUOp[1] => a1.IN0
+ALUOp[1] => a2.IN0
+ALUOp[1] => a4.IN0
+ALUOp[1] => a5.IN0
+ALUOp[1] => a3.IN1
+funct3[0] => a1.IN1
+funct3[0] => a4.IN1
+funct3[1] => a1.IN2
+funct3[1] => a2.IN1
+funct3[1] => a4.IN2
+funct3[1] => a5.IN1
+funct3[2] => a2.IN2
+funct3[2] => a1.IN3
+opb5 => a5.IN2
+funct7b5 => a5.IN3
+ALUControl[0] << o1.DB_MAX_OUTPUT_PORT_TYPE
+ALUControl[1] << a2.DB_MAX_OUTPUT_PORT_TYPE
+ALUControl[2] << a1.DB_MAX_OUTPUT_PORT_TYPE
+
+

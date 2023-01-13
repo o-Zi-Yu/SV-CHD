@@ -1,0 +1,14 @@
+// Declare 5 internal logic signals or local variables
+// which can only be used inside of this module
+logic ns, n1, n2, n3, n4;
+// The following logic gates are part of SystemVerilog Spec
+// (built-in primitives). // The first signal (e.g., ns) is the output. The rest(e.g., a, b) are
+// inputs. // sum logic
+xor x1(ns, a, b); // ns = a XOR b
+xor x2(sum, ns, cin); // sum = ns XOR cin
+// carry logic
+and a1(n1, a, b); // n1 = a & b
+and a2(n2, a, cin); // n2 = a & cin
+and a3(n3, b, cin); // n3 = b & cin
+or o1(n4, n1, n2); // n4 = n1 | n2
+or o2(cout, n3, n4); // cout = n3 | n4

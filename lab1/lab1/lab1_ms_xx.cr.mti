@@ -1,0 +1,15 @@
+D:/QuartusPrime/lab1/testbench_aludec.sv {1 {vlog -work work -sv -stats=none D:/QuartusPrime/lab1/testbench_aludec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_aludec
+
+Top level modules:
+	testbench_aludec
+
+} {} {}} D:/QuartusPrime/lab1/aludec.sv {1 {vlog -work work -sv -stats=none D:/QuartusPrime/lab1/aludec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}}
