@@ -2,6 +2,7 @@
  programming labs for Computer Hardware Design
 
  Lab 2 Clock Divider
+ 
  Lab 3 FSM
  Lab 4 FIFO
  Lab 5 Intro to RISC-V Assembly
